@@ -234,3 +234,41 @@
   margin-top: 4px;
   columns: #ffff;
 }
+
+/* footer */
+ 
+.footer{
+  margin-top: 300px;
+  height: 300px;
+  background-color: #FFF8F3;
+  display: flex;
+}
+.lets-connect{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin-left: 50px;
+}
+.contact-form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.icon a img{
+  margin-left: 20px;
+  margin-top: 50px;
+}
+.margin{
+  margin-left: 20px;
+}
+#cars{
+  padding: 10px;
+  border: none;
+  font-size: 15px;
+  background-color: chartreuse;
+  border-radius: 5px;
+}
